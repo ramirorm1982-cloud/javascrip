@@ -24,3 +24,5 @@ document.getElementById("descuento").textContent=descuento;
 let descuentoAdicional=fidelidad && diaViernes;
 console.log(descuentoAdicional);
 document.getElementById("descuentoAdicional").textContent=descuentoAdicional;
+
+

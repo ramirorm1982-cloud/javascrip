@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    color: #333;
+    padding: 30px;
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 90%;
+}
+
+button {
+    display: block;
+    background-color: blue;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 20px auto;      
+    cursor: pointer;
+    text-align: center;
+}
+
+button:hover {
+    background-color: green;
+}
+
+span {
+    background-color: #c4cccc;  
+    display: block;
+    font-weight: bold;
+    color: rgb(7, 45, 110);
+    margin-top: 10px;
+}
+/*
+#saludoRepetido {
+    white-space: pre-line;
+}*/

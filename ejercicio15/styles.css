@@ -1,0 +1,19 @@
+h1{
+    background-color: rgb(68, 106, 125);
+    text-align: center;
+    color: blue;
+    
+}
+
+
+
+.imagen{
+    margin-top: 100px;
+}
+
+body{
+    text-align: center;
+}
+button{
+    background-color: rgb(85, 51, 178);
+}
